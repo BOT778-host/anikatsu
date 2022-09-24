@@ -22,6 +22,6 @@ $twitter = "#";
 
 // API URL (Don't edit)
 
-$apiLink = "https://anikatsu.vercel.app/api";
+$apiLink = "https://u9ogjg-7278.preview.csb.app";
 $banner = $webUrl . "/files/images/banner.png"
 ?>
